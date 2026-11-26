@@ -1,0 +1,7 @@
+[package]
+name = "screensharing_tool"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+fltk = { version = "1.5.24", features = ["fltk-bundled"] }
